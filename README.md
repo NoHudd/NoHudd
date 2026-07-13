@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Duhon%20Young&fontSize=70&fontAlignY=40" alt="Duhon Young" />
-</p>
-
-<p align="center">
   <em>Full Stack Dev • Technical Translator • Builder of weird internet things</em>
 </p>
 
