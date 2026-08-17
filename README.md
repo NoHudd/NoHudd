@@ -7,15 +7,6 @@
   I build things that make the web a little less generic — and write about why most of it is.
 </p>
 
-<p align="center">
-  <a href="https://dmyproduct.com"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/n0hud"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/NoHudd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@n0hud"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://soundcloud.com/yungg_soull"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
-  <a href="mailto:contact@dmyproduct.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ---
 
 ### Tech Stack
@@ -47,12 +38,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NoHudd&theme=github-dark&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://dmyproduct.com/portfolio">
-    <img src="https://img.shields.io/badge/See%20my%20work%20→-dmyproduct.com%2Fportfolio-0A66C2?style=for-the-badge" alt="See my work" />
-  </a>
 </p>
